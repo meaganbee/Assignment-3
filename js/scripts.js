@@ -12,5 +12,5 @@ zoom: 10
 });
 
 var marker = new mapboxgl.Marker()
-  .setLngLat([-73.907089,40.739844])
+  .setLngLat([-73.8523193, 40.7362691])
   .addTo(map);
